@@ -1224,7 +1224,7 @@
     }
 
     .main-menu-wrapper__call {
-        display: none;
+        /* display: none; */
     }
 
     .main-menu .mobile-nav__toggler {
